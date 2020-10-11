@@ -1,0 +1,6 @@
+name = "cf_swe_test"
+type = "webpack"
+account_id = "0f3eeffb092e2518ee8dba8268348c40"
+workers_dev = true
+route = ""
+zone_id = ""

@@ -1,0 +1,20 @@
+{
+    "name": "cf_swe_test",
+    "version": "1.0.0",
+    "description": "package for creating workers templates",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "prettier --write '**/*.{js,css,json,md}'"
+    },
+    "author": "stickz",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^1.17.0"
+    },
+    "dependencies": {
+        "handlebars": "^4.7.6",
+        "handlebars-loader": "^1.7.1",
+        "serverless-cloudflare-workers": "^1.2.0"
+    }
+}
