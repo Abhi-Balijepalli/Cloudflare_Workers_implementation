@@ -1,8 +1,4 @@
-## Cloudflare Summer 2021 Intern Test
+## Cloudflare Wrangler Implementation
 Author: Abhi Balijepalli
-Email: Abhibalijepalli@gmail.com
-- Things to do before you start:
-(make sure wrangler is installed)
-npm install
 
-# To run program: wrangler dev --port 8000
+#### To run program: wrangler dev --port 8000
